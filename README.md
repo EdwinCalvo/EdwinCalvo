@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I’m Edwin Andrés Calvo Rincón, a Software Development Engineer from Colombia, focused on building backend systems for AI-powered applications 🤖.<br>I work primarily with Python and TS, designing APIs, automation tools, and cloud-based architectures that support intelligent systems — from conversational agents to scalable workflows ☁️.<br>I’m passionate about turning AI capabilities into real-world products💡.</p>
+<p align="left">Hi, I’m Edwin Calvo, a Software Development Engineer from Colombia, focused on building backend systems for AI-powered applications 🤖.<br>I work primarily with Python and TS, designing APIs, automation tools, and cloud-based architectures that support intelligent systems — from conversational agents to scalable workflows ☁️.<br>I’m passionate about turning AI capabilities into real-world products💡.</p>
 
 ###
 
